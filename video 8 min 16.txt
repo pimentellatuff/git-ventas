@@ -1,0 +1,1 @@
+{{URL::Action('CategoriaController@edit',$cat->idcategorias)}}
